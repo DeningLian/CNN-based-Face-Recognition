@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 import tensorflow as tf
 import numpy as np
-from input_data import *
-from logger import *
-from input import train
-from input import test
+from src.input_data import *
+from src.logger import *
+from src.input import train
+from src.input import test
 from numpy import shape
 # 加载数据
 # mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
