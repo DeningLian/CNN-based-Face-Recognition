@@ -1,2 +1,0 @@
-# FaceRecognizationUsingNeuralNetwork
-基于神经网络的人脸识别

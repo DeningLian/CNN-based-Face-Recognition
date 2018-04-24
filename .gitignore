@@ -99,9 +99,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-/*
-!.gitignore
-!/LICENSE
-!/README.md
-!/src
