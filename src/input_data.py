@@ -1,17 +1,17 @@
 # -*- coding: utf-8 -*-
 # from data_loader import *
-from clean_DS_Store import *
-from logger import *
-from input import data_loader
-from input import train
-from input import test
-from input import validate
+
 import numpy as np
 
-def read_data_sets(img_width=64, training_ratio=0.7, 
+from src.clean_DS_Store import clean
+from src.input import data_loader, train, validate, test
+from src.logger import Logger
+
+
+def read_data_sets(path='../data/faces', img_width=64, training_ratio=0.7,
 	validation_ratio=0.2, testing_ratio=0.1):
 	clean()
-	data, num = data_loader.load('../data/faces', img_width, training_ratio, 
+	data, num = data_loader.load(path, img_width, training_ratio,
 		validation_ratio, testing_ratio)
 	logger = Logger()
 	logger.info('data set read completed')
