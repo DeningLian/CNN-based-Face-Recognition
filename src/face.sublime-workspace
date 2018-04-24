@@ -1,0 +1,2892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fac",
+				"face_num〔variable〕"
+			],
+			[
+				"face",
+				"face_name_list〔variable〕"
+			],
+			[
+				"im",
+				"img_width"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"inclu",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"becolum",
+				"\\begin{columns}                                   \tclass-beamer"
+			],
+			[
+				"delta",
+				"\\Delta                                            \tlatex-mathsymbols"
+			],
+			[
+				"column",
+				"\\onecolumn                                        \tlatex-document"
+			],
+			[
+				"begincolumns",
+				"\\begin{columns}                                   \tclass-beamer"
+			],
+			[
+				"usepa",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"ganwubi",
+				"gan_wu_bi"
+			],
+			[
+				"xiala",
+				"xia_la_lie_biao"
+			],
+			[
+				"gan",
+				"gan_wu_bi_y"
+			],
+			[
+				"xia",
+				"xia_la_y"
+			],
+			[
+				"jing",
+				"jing_ji_chang_y〔variable〕"
+			],
+			[
+				"hudie",
+				"hu_dir_gu_y〔variable〕"
+			],
+			[
+				"hudi",
+				"hu_die_gu_x〔variable〕"
+			],
+			[
+				"jiang",
+				"jiang_hu_shi_y"
+			],
+			[
+				"mo",
+				"mouse"
+			],
+			[
+				"jin",
+				"jing_ji_chang_in_y〔variable〕"
+			],
+			[
+				"get",
+				"get_target_position〔function〕"
+			],
+			[
+				"h",
+				"hu_die_gu_in_x"
+			],
+			[
+				"pass",
+				"passed"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"_",
+				"_low"
+			],
+			[
+				"pos",
+				"pos_y"
+			],
+			[
+				"dir",
+				"dir_y"
+			],
+			[
+				"po",
+				"pos_y"
+			],
+			[
+				"cal",
+				"cal_inspire"
+			],
+			[
+				"state",
+				"stateQueue"
+			],
+			[
+				"END",
+				"END_POS_Y"
+			],
+			[
+				"min",
+				"min_index"
+			],
+			[
+				"c",
+				"current"
+			],
+			[
+				"vec",
+				"vec_y"
+			],
+			[
+				"init",
+				"init_graph"
+			],
+			[
+				"g",
+				"Graph"
+			],
+			[
+				"print",
+				"print_arc"
+			],
+			[
+				"di",
+				"dir_y"
+			],
+			[
+				"is_",
+				"is_exist"
+			],
+			[
+				"move",
+				"move_up"
+			],
+			[
+				"ca",
+				"cao_y〔variable〕"
+			],
+			[
+				"tihuan",
+				"tihuan_y〔variable〕"
+			],
+			[
+				"wei",
+				"weichi_y〔variable〕"
+			],
+			[
+				"pix",
+				"pixel"
+			],
+			[
+				"xi",
+				"xisui_y〔variable〕"
+			],
+			[
+				"pr",
+				"print〔keyword〕"
+			],
+			[
+				"befra",
+				"\\begin{frame}{title}                              \tclass-beamer"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"begdoc",
+				"\\begin{document}                                  \tlatex-document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "FaceExtracter.py",
+			"settings":
+			{
+				"buffer_size": 4553,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "network1_test.py",
+			"settings":
+			{
+				"buffer_size": 461,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network1_test.py",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/mnist_loader.py",
+			"settings":
+			{
+				"buffer_size": 3400,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/启发式搜索/state.h",
+			"settings":
+			{
+				"buffer_size": 1124,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/启发式搜索/启发式搜索.cpp",
+			"settings":
+			{
+				"buffer_size": 2207,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network2.py",
+			"settings":
+			{
+				"buffer_size": 14153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\"\"\"\nnetwork.py\n\nA module to implement the stochastic gradient descent learning\nalgorithm for a feedforward neural network.  Gradients are calculated\nusing backpropagation.  Note that I have focused on making the code\nsimple, easily readable, and easily modifiable.  It is not optimized,\nand omits many desirable features.\n\"\"\"\n\n#### Libraries\n# Standard library\nimport random\n\n# Third-party libraries\nimport numpy as np\n\nclass Network(object):\n\n    def __init__(self, sizes):\n        \"\"\"The list ``sizes`` contains the number of neurons in the\n        respective layers of the network.  For example, if the list\n        was [2, 3, 1] then it would be a three-layer network, with the\n        first layer containing 2 neurons, the second layer 3 neurons,\n        and the third layer 1 neuron.  The biases and weights for the\n        network are initialized randomly, using a Gaussian\n        distribution with mean 0, and variance 1.  Note that the first\n        layer is assumed to be an input layer, and by convention we\n        won't set any biases for those neurons, since biases are only\n        ever used in computing the outputs from later layers.\"\"\"\n        self.num_layers = len(sizes)\n        self.sizes = sizes\n        self.biases = [np.random.randn(y, 1) for y in sizes[1:]]\n        self.weights = [np.random.randn(y, x)\n                        for x, y in zip(sizes[:-1], sizes[1:])]\n\n    def feedforward(self, a):\n        \"\"\"Return the output of the network if ``a`` is input.\"\"\"\n        for b, w in zip(self.biases, self.weights):\n            a = sigmoid(np.dot(w, a)+b)\n        return a\n\n    def SGD(self, training_data, epochs, mini_batch_size, eta,\n            test_data=None):\n        \"\"\"Train the neural network using mini-batch stochastic\n        gradient descent.  The ``training_data`` is a list of tuples\n        ``(x, y)`` representing the training inputs and the desired\n        outputs.  The other non-optional parameters are\n        self-explanatory.  If ``test_data`` is provided then the\n        network will be evaluated against the test data after each\n        epoch, and partial progress printed out.  This is useful for\n        tracking progress, but slows things down substantially.\"\"\"\n        if test_data: n_test = len(test_data)\n        n = len(training_data)\n        for j in xrange(epochs):\n            random.shuffle(training_data)\n            mini_batches = [\n                training_data[k:k+mini_batch_size]\n                for k in xrange(0, n, mini_batch_size)]\n            for mini_batch in mini_batches:\n                self.update_mini_batch(mini_batch, eta)\n            if test_data:\n                print \"Epoch {0}: {1} / {2}\".format(\n                    j, self.evaluate(test_data), n_test)\n            else:\n                print \"Epoch {0} complete\".format(j)\n\n    def update_mini_batch(self, mini_batch, eta):\n        \"\"\"Update the network's weights and biases by applying\n        gradient descent using backpropagation to a single mini batch.\n        The ``mini_batch`` is a list of tuples ``(x, y)``, and ``eta``\n        is the learning rate.\"\"\"\n        nabla_b = [np.zeros(b.shape) for b in self.biases]\n        nabla_w = [np.zeros(w.shape) for w in self.weights]\n        for x, y in mini_batch:\n            delta_nabla_b, delta_nabla_w = self.backprop(x, y)\n            nabla_b = [nb+dnb for nb, dnb in zip(nabla_b, delta_nabla_b)]\n            nabla_w = [nw+dnw for nw, dnw in zip(nabla_w, delta_nabla_w)]\n        self.weights = [w-(eta/len(mini_batch))*nw\n                        for w, nw in zip(self.weights, nabla_w)]\n        self.biases = [b-(eta/len(mini_batch))*nb\n                       for b, nb in zip(self.biases, nabla_b)]\n\n    def backprop(self, x, y):\n        \"\"\"Return a tuple ``(nabla_b, nabla_w)`` representing the\n        gradient for the cost function C_x.  ``nabla_b`` and\n        ``nabla_w`` are layer-by-layer lists of numpy arrays, similar\n        to ``self.biases`` and ``self.weights``.\"\"\"\n        nabla_b = [np.zeros(b.shape) for b in self.biases]\n        nabla_w = [np.zeros(w.shape) for w in self.weights]\n        # feedforward\n        activation = x\n        activations = [x] # list to store all the activations, layer by layer\n        zs = [] # list to store all the z vectors, layer by layer\n        for b, w in zip(self.biases, self.weights):\n            z = np.dot(w, activation)+b\n            zs.append(z)\n            activation = sigmoid(z)\n            activations.append(activation)\n        # backward pass\n        delta = self.cost_derivative(activations[-1], y) * \\\n            sigmoid_prime(zs[-1])\n        nabla_b[-1] = delta\n        nabla_w[-1] = np.dot(delta, activations[-2].transpose())\n        # Note that the variable l in the loop below is used a little\n        # differently to the notation in Chapter 2 of the book.  Here,\n        # l = 1 means the last layer of neurons, l = 2 is the\n        # second-last layer, and so on.  It's a renumbering of the\n        # scheme in the book, used here to take advantage of the fact\n        # that Python can use negative indices in lists.\n        for l in xrange(2, self.num_layers):\n            z = zs[-l]\n            sp = sigmoid_prime(z)\n            delta = np.dot(self.weights[-l+1].transpose(), delta) * sp\n            nabla_b[-l] = delta\n            nabla_w[-l] = np.dot(delta, activations[-l-1].transpose())\n        return (nabla_b, nabla_w)\n\n    def evaluate(self, test_data):\n        \"\"\"Return the number of test inputs for which the neural\n        network outputs the correct result. Note that the neural\n        network's output is assumed to be the index of whichever\n        neuron in the final layer has the highest activation.\"\"\"\n        test_results = [(np.argmax(self.feedforward(x)), y)\n                        for (x, y) in test_data]\n        return sum(int(x == y) for (x, y) in test_results)\n\n    def cost_derivative(self, output_activations, y):\n        \"\"\"Return the vector of partial derivatives \\partial C_x /\n        \\partial a for the output activations.\"\"\"\n        return (output_activations-y)\n\n#### Miscellaneous functions\ndef sigmoid(z):\n    \"\"\"The sigmoid function.\"\"\"\n    return 1.0/(1.0+np.exp(-z))\n\ndef sigmoid_prime(z):\n    \"\"\"Derivative of the sigmoid function.\"\"\"\n    return sigmoid(z)*(1-sigmoid(z))\n",
+			"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network.py",
+			"file_size": 6438,
+			"file_write_time": 131669303680000000,
+			"settings":
+			{
+				"buffer_size": 6286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.py",
+			"settings":
+			{
+				"buffer_size": 217,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils.py",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "test.py"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++test.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++test.sublime-build",
+					"RunInCommand"
+				]
+			],
+			[
+				"Packages/User/C++test.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pyenv_python2.7.14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pyenv_python2.7.14.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/pyenv_python3.6.4.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pyenv_python3.6.4.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/pyenv_python2.7.14.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/pyenv_python2.7.14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pyenv_python2.7.14.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/pyenv_python3.6.4.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pyenv_python3.6.4.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/pyenv_python2.7.14.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/pyenv_python2.7.14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pyenv_python2.7.14.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/pyenv_python3.6.4.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pyenv_python3.6.4.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python_system.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python_system.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/pyenv_python2.7.14.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python_system.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python_system.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/python_system.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "setpy",
+		"selected_items":
+		[
+			[
+				"setpy",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packagev",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"packagevie",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ssla",
+				"Set Syntax: LaTeX"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"terminality",
+			"terminal",
+			"abc",
+			"asd",
+			"123",
+			"sudo g++ \"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/八数码问题.cpp\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/人脸识别/Face"
+	],
+	"file_history":
+	[
+		"/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network3.py",
+		"/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/conv_test.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/启发式搜索/启发式搜索.cpp",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/启发式搜索/paras.h",
+		"/Users/seapatrol/Downloads/face_recognition-master/README.md",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/人脸识别/Face/utils.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/人脸识别/Face/haarcascade_frontalface_default.xml",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/人脸识别/Face/train.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/人脸识别/Face/camera_test.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/人脸识别/Face/config.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/人脸识别/Face/FaceExtracter.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_2/模式识别/[SEU] Project Work (Group 魏博伟 樊博杰 张敏学)/FaceRecognition/FaceExtracter.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_2/模式识别/[SEU] Project Work (Group 魏博伟 樊博杰 张敏学)/project.tex",
+		"/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network1_test.py",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/神经网络和深度学习/beamer.tex",
+		"/Users/seapatrol/Documents/LaTeX/tutorial/tutorial.tex",
+		"/Users/seapatrol/Documents/LaTeX/beamer/beamer.tex",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/\\column.sublime-snippet",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/编译原理课程设计/Main.java",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/\\column",
+		"/Users/seapatrol/Documents/LaTeX/latex/latex.tex",
+		"/Users/seapatrol/Documents/LaTeX/模板/beamer/logicalhacking-latex-master/lh-businesscard/example.tex",
+		"/Users/seapatrol/Documents/LaTeX/模板/beamer/logicalhacking-latex-master/lh-businesscard/lh-businesscard.cls",
+		"/Users/seapatrol/Documents/LaTeX/模板/beamer/logicalhacking-latex-master/README.md",
+		"/Users/seapatrol/Documents/LaTeX/模板/beamer/beamer_template-master/slideshow.tex",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/就业导论/论得失-我的大学/论得失 - 我的大学.md",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/就业导论/职业生涯规划书/职业生涯规划书.md",
+		"/Users/seapatrol/Desktop/职业生涯规划书.md",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/简历/awesome-latex-cv-zh-cn/section_experience_short.tex",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/简历/awesome-latex-cv-zh-cn/section_headline.tex",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/简历/awesome-latex-cv-zh-cn/main.tex",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/简历/awesome-latex-cv-zh-cn/section_interests.tex",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/计算机网络概论_论文阅读/beamer/beamer.tex",
+		"/usr/local/texlive/2017/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/简历/awesome-latex-cv-zh-cn/section_skills.tex",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/简历/awesome-latex-cv-zh-cn/section_languages.tex",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/简历/awesome-latex-cv-zh-cn/section_education.tex",
+		"/Users/seapatrol/Desktop/## 任务完成情况报告.md",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/data/kbfile/NT_triplets.nt",
+		"/Users/seapatrol/Desktop/## 任务完成情况报告",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/application.properties",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/target/classes/log4j.properties",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/log4j.properties",
+		"/Users/seapatrol/ProgramData/resources/log4j.properties",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/test/java/com/qa/demo/utils/io/WebServiceAccessorTest.java",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/test/java/com/qa/demo/utils/io/[shell_cmd",
+		"/Users/seapatrol/Downloads/agriculture (1)",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/data/kbfile/zhwiki_entitiy_properties.nt",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/data/kbfile/zhwiki_extra_entitiy_properties.nt",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/data/kbfile/hudong_extra_entitiy_properties.nt",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/data/kbfile/baidubaike_extra_entitiy_properties.nt",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/data/kbfile/baidubaike_entitiy_properties.nt",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/src/main/resources/data/kbfile/hudongbaike_entitiy_properties.nt",
+		"/Users/seapatrol/IdeaProjects_no_sync/DaSanCYuYanZuoYe-TuShuGuanLiXiTong/README.md",
+		"/Users/seapatrol/Documents/PyCharmProjects/绘图/HoloViews.py",
+		"/Users/seapatrol/Documents/PyCharmProjects/绘图/matplotlib_test.py",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/seapatrol/Documents/PyCharmProjects/xun_xia/start.py",
+		"/Users/seapatrol/Documents/PyCharmProjects/xun_xia/meiri.py",
+		"/Users/seapatrol/Documents/PyCharmProjects/xun_xia/mousuEvent.py",
+		"/Volumes/[C] Windows 10.hidden/elasticsearch-5.5.1/README.textile",
+		"/Users/seapatrol/Downloads/zhwiki_abstracts.nt",
+		"/Users/seapatrol/Documents/IdeaProjects/MCTS/src/TreeNodeTest.java",
+		"/Users/seapatrol/Documents/IdeaProjects/MCTS/src/TreeNode.java",
+		"/Users/seapatrol/Documents/IdeaProjects/MCTS/src/TreeView.java",
+		"/Users/seapatrol/Documents/IdeaProjects/MCTS/src/Main.java",
+		"/Users/seapatrol/Documents/IdeaProjects/MCTS/src/ElapsedTimer.java",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/启发式搜索.cpp",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/utils.h",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/state.h",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/graph.h",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/README.md",
+		"/Users/seapatrol/Documents/PyCharmProjects/脚本库/ban_website.py",
+		"/Users/seapatrol/Desktop/启发式搜索/启发式搜索.cpp",
+		"/Users/seapatrol/Desktop/Test/BigInteger.h",
+		"/Users/seapatrol/Desktop/Test/utils.h",
+		"/Users/seapatrol/Desktop/Test/paras.h",
+		"/Users/seapatrol/Desktop/Test/test.cpp",
+		"/Users/seapatrol/Desktop/Test/abcasdgagasg.cpp",
+		"/Users/seapatrol/Desktop/Test/README.md",
+		"/Library/Developer/CommandLineTools/usr/include/c++/v1/map",
+		"/Library/Developer/CommandLineTools/usr/include/c++/v1/__functional_base",
+		"/Users/seapatrol/Desktop/Test/graph.h",
+		"/Library/Developer/CommandLineTools/usr/include/c++/v1/__tree",
+		"/Users/seapatrol/Downloads/BigInteger-master/BigIntegerSingleFile.cpp",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX)的副本.sublime-keymap",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/Terminality/Default (OSX).sublime-keymap",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/C++11.sublime-build",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/coding.sublime-snippet",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/pyenv_python2.7.14.sublime-build",
+		"/Users/seapatrol/Desktop/Test/test.sublime-project",
+		"/Users/seapatrol/Desktop/Test/w",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/Terminality/Terminality.sublime-settings",
+		"/Users/seapatrol/Desktop/Test/state.h",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/Terminality.sublime-settings",
+		"/Users/seapatrol/Library/Application Support/Sublime Text 3/Packages/User/C++test.sublime-build",
+		"/Users/seapatrol/Desktop/Test/paras",
+		"/Users/seapatrol/Desktop/Test/graph.cpp",
+		"/Users/seapatrol/Desktop/Test/utils.cpp",
+		"/Users/seapatrol/Desktop/启发式搜索/graph.h",
+		"/Users/seapatrol/Desktop/启发式搜索/state.cpp",
+		"/Users/seapatrol/Desktop/启发式搜索/utils.h",
+		"/Users/seapatrol/Desktop/启发式搜索/state.h",
+		"/Users/seapatrol/Desktop/启发式搜索/paras.h",
+		"/Users/seapatrol/Desktop/启发式搜索/graph.cpp",
+		"/Users/seapatrol/Desktop/启发式搜索/inspire.sublime-project",
+		"/Users/seapatrol/Desktop/启发式搜索/八数码问题.cpp",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/paras.h",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/state.cpp",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/八数码问题.cpp",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/graph.cpp",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/State.h",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/大作业3.pptx",
+		"/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/人工智能_课程/作业/启发式搜索/Graph.h",
+		"/Users/seapatrol/Desktop/八数码问题.cpp",
+		"/Users/seapatrol/Desktop/Graph.cpp",
+		"/Users/seapatrol/Desktop/State.h",
+		"/Users/seapatrol/Desktop/Graph.h",
+		"/Users/seapatrol/Desktop/paras.h",
+		"/Users/seapatrol/Desktop/State.cpp",
+		"/Library/Developer/CommandLineTools/usr/include/c++/v1/algorithm",
+		"/Users/seapatrol/Desktop/utils.h"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "FaceExtracter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4552,
+								4552
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.57.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "network1_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"SL.26.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network1_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"SL.27.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/mnist_loader.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2591,
+								2591
+							]
+						],
+						"settings":
+						{
+							"SL.28.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1136.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/启发式搜索/state.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								785,
+								785
+							]
+						],
+						"settings":
+						{
+							"SL.30.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.clang.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.clang.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/seapatrol/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/2017-2018_3/作业/启发式搜索/启发式搜索.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.31.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 6.0,
+						"translation.y": 1588.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13232,
+								13228
+							]
+						],
+						"settings":
+						{
+							"SL.29.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/seapatrol/Documents/PyCharmProjects/neural_network/src/network.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"SL.67.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 668.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"SL.20.region_keys":
+							[
+							],
+							"SL.61.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "utils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								57
+							]
+						],
+						"settings":
+						{
+							"SL.63.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										63,
+										64
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										57,
+										58
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"SL.68.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"auto_name": "test.py",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										148,
+										149
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										65,
+										66
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 151.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 341.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 255.0
+	},
+	"output.markdown":
+	{
+		"height": 151.0
+	},
+	"pinned_build_system": "",
+	"project": "face.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"init_graph"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
