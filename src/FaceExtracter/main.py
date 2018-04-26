@@ -22,7 +22,7 @@ if results is not None:
     chips = detector.extract_image_chips(img, points, 144, 0.37)
     for i, chip in enumerate(chips):
         # cv2.imshow('chip_'+str(i), chip)
-        cv2.imwrite('faces/chip_'+str(i)+'.png', chip)
+        # cv2.imwrite('faces/chip_'+str(i)+'.png', chip)
         pass
     draw = img.copy()
     for b in total_boxes:
@@ -35,6 +35,7 @@ if results is not None:
     height, width = draw.shape[:2]
     # draw = cv2.resize(draw, (320, int(height/width*320)))
     cv2.imshow("detection result", draw)
+    cv2.imwrite('chip_'+str(1)+'.png', chip)
     cv2.waitKey(0)
 
 # --------------
