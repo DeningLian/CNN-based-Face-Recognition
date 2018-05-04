@@ -2,7 +2,8 @@
 history/
 src/tmp/
 src/models/
-*sublime*
+*.sublime-workspace
+*.sublime-project
 *.bak
 
 # Byte-compiled / optimized / DLL files
