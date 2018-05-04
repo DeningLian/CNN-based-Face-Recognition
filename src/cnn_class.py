@@ -7,7 +7,7 @@ import os
 
 from src import logger
 from src.input import train
-from src.input_data import get_validate_data, get_test_data
+from src.input_data import get_validate_data, get_test_data, get_train_data
 from src.logger import Logger
 
 
@@ -110,7 +110,7 @@ class CNN:
         input_flat = tf.reshape(input, [-1, int(flat_size)])
         return input_flat, flat_size
 
-    def train(self, is_test=False, is_load=False, summary_file='tmp/1'):
+    def train(self, is_test=False, is_load=False, is_summary=False, summary_file='tmp/1'):
         self.cross_entropy = -tf.reduce_sum(self.y_ * tf.log(self.y_conv + 1e-8))
         tf.summary.scalar('cross_entropy', self.cross_entropy)
 
@@ -124,7 +124,8 @@ class CNN:
         self.accuracy = tf.reduce_mean(tf.cast(correct_prediction, "float"))
         tf.summary.scalar('accuracy', self.accuracy)
 
-        merged_summary, writer = self.summary(file=summary_file)
+        # train_merged_summary, tarin_writer = self.summary(file=summary_file + 'train')
+        evaluate_merged_summary, evaluate_writer = self.summary(file=summary_file + '_evaluate')
 
         saver = tf.train.Saver()
         if is_load:
@@ -136,10 +137,9 @@ class CNN:
 
         print(self.output_num)
         j = 0
-        for i in range(0, 5):
+        for i in range(0, 500):
             start = time.clock()
-            train_accuracy = []
-            train_loss = []
+            train_accuracy, train_loss = [], []
             for batch in train.get_batches(64):
                 j += 1
                 if is_test:
@@ -149,9 +149,12 @@ class CNN:
                     print(batch[1])
                     abc = input('abc')
                 self.train_batch(i, batch, train_accuracy, train_loss, 0.8)
-                s = self.sess.run(merged_summary,
-                                  feed_dict={self.x: batch[0], self.y_: batch[1], self.keep_prob: 0.9, self.phase: 1})
-                writer.add_summary(s, j)
+                if is_summary:
+                    """s = self.sess.run(train_merged_summary,
+                                  feed_dict={self.x: get_train_data()[0], self.y_: get_train_data()[1], self.keep_prob: 0.9,
+                                             self.phase: 1})
+                    tarin_writer.add_summary(s, j)"""
+                    self.evaluate(i, merged_summary=evaluate_merged_summary, writer=evaluate_writer)
             self.evaluate(i)
             end = time.clock()
             print("step %d, training accuracy %g, training loss %g" % (
@@ -167,7 +170,7 @@ class CNN:
             self.x: batch[0], self.y_: batch[1], self.keep_prob: keep_prob, self.phase: 1}))
         self.logger.info("step %d, training accuracy %g, training loss %g"
                          % (step, sum(train_accuracy) / len(train_accuracy), sum(train_loss) / len(train_loss)))
-        self.train_step.run(feed_dict={self.x: batch[0], self.y_: batch[1], self.keep_prob: 0.9, self.phase: 1})
+        self.train_step.run(feed_dict={self.x: batch[0], self.y_: batch[1], self.keep_prob: 0.6, self.phase: 1})
 
     def evaluate(self, step, merged_summary=None, writer=None):
         validate_data = get_validate_data()
@@ -176,14 +179,15 @@ class CNN:
         test_loss = self.cross_entropy.eval(feed_dict={
             self.x: validate_data[0], self.y_: validate_data[1], self.keep_prob: 1.0, self.phase: 0})
 
-        """if merged_summary is not None:
+        if merged_summary is not None:
+            # for i in range(0, 7):
             s = self.sess.run(merged_summary,
                               feed_dict={self.x: validate_data[0], self.y_: validate_data[1], self.keep_prob: 1.0,
-                                      self.phase: 1})
+                                         self.phase: 1})
             writer.add_summary(s, step)
-        """
-        self.logger.info("step %d, validate set: accuracy %g, loss %g" % (step, test_accuracy, test_loss))
-        print("step %d, validate set: accuracy %g, loss %g" % (step, test_accuracy, test_loss))
+        else:
+            self.logger.info("step %d, validate set: accuracy %g, loss %g" % (step, test_accuracy, test_loss))
+            print("step %d, validate set: accuracy %g, loss %g" % (step, test_accuracy, test_loss))
 
     def test(self):
         test_data = get_test_data()
