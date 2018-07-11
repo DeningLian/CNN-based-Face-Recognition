@@ -14,7 +14,7 @@ from src.logger import Logger
 class CNN:
 
     def __init__(self, learning_rate=1e-3, img_width=32, input_size=1024, output_size=10,
-                 model_path='models/net_32_4.ckpt'):
+                 model_path='../models/CNN.ckpt'):
         self.conv_layer = 0
         self.fc_layer = 0
         self.x = tf.placeholder(tf.float32, shape=[None, input_size], name='x')
@@ -110,7 +110,7 @@ class CNN:
         input_flat = tf.reshape(input, [-1, int(flat_size)])
         return input_flat, flat_size
 
-    def train(self, is_test=False, is_load=False, is_summary=False, summary_file='tmp/1'):
+    def train(self, is_test=False, is_load=False, is_summary=False, summary_file='../tmp/1', epoch=50):
         self.cross_entropy = -tf.reduce_sum(self.y_ * tf.log(self.y_conv + 1e-8))
         tf.summary.scalar('cross_entropy', self.cross_entropy)
 
@@ -137,7 +137,7 @@ class CNN:
 
         print(self.output_num)
         j = 0
-        for i in range(0, 500):
+        for i in range(0, epoch):
             start = time.clock()
             train_accuracy, train_loss = [], []
             for batch in train.get_batches(64):
@@ -199,7 +199,7 @@ class CNN:
         self.logger.info('end')
         print("test set: accuracy %g, loss %g" % (test_accuracy, test_loss))
 
-    def summary(self, file='tmp/mnist_demo/3'):
+    def summary(self, file='../tmp/mnist_demo/3'):
         merged_summary = tf.summary.merge_all()
         writer = tf.summary.FileWriter(file)
         writer.add_graph(self.sess.graph)

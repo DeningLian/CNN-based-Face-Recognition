@@ -5,7 +5,7 @@ from src.input_data import *
 from src.logger import *
 
 E = [0.001]
-dataset = ['FaceScrub']
+dataset = ['door']
 for e in E:
     img_width = 16
     kernel_size1 = 5
@@ -19,7 +19,6 @@ for e in E:
     data, num = read_data_sets(path='../data/' + dataset[0], is_whitening=False, img_width=img_width)
     img_width = int(np.sqrt(data[0][0].shape[1]))
 
-    # print(data[0][0].shape)
     logger = Logger()
     logger.info('start\nimg_width=%d,kernel_size=%d,feature_map1_num=%d,feature_map2_num=%d,fully_connect_size=%d'
                 % (img_width, kernel_size1, feature_map1_num, feature_map2_num, fully_connect_size))
@@ -37,4 +36,4 @@ for e in E:
     fc_output1 = cnn.fc(conv_output3_flat, flat_size, fully_connect_size, 'fc1')
     y_conv = cnn.output_layer(fc_output1, fully_connect_size, num, 'fc2')
 
-    cnn.train(is_summary=True, summary_file='tmp/test/' + dataset[0])
+    cnn.train(is_summary=True, summary_file='../tmp/test/' + dataset[0], epoch=5, is_load=False)
