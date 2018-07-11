@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 
-from src.cnn_class import CNN
-from src.input_data import *
-from src.logger import *
+from cnn_class import CNN
+from input_data import *
+from logger import *
+import os
+
+os.system('find ./../. -name ".DS_Store" | xargs rm -rf')
+print('.DS_Store 文件清除成功')
 
 E = [0.001]
 dataset = ['door']
@@ -36,4 +40,4 @@ for e in E:
     fc_output1 = cnn.fc(conv_output3_flat, flat_size, fully_connect_size, 'fc1')
     y_conv = cnn.output_layer(fc_output1, fully_connect_size, num, 'fc2')
 
-    cnn.train(is_summary=True, summary_file='../tmp/test/' + dataset[0], epoch=5, is_load=False)
+    cnn.train(is_summary=False, summary_file='../tmp/test/' + dataset[0], epoch=5, is_load=False)

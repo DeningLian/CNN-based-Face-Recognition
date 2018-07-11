@@ -3,9 +3,8 @@
 
 import numpy as np
 
-from src.clean_DS_Store import clean
-from src.input import data_loader, train, validate, test
-from src.logger import Logger
+from input import data_loader, train, validate, test
+from logger import Logger
 
 
 def wightening_train(data):
@@ -46,7 +45,6 @@ def wightening_validate(data, S, U):
 
 def read_data_sets(path='../data/faces_dir', is_whitening=False, img_width=64, training_ratio=0.7,
                    validation_ratio=0.2, testing_ratio=0.1):
-    clean()
     data, num = data_loader.load(path, img_width, training_ratio,
                                  validation_ratio, testing_ratio)
     if is_whitening:

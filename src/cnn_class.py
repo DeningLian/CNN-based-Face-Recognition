@@ -3,12 +3,10 @@ import time
 
 import tensorflow as tf
 import numpy as np
-import os
 
-from src import logger
-from src.input import train
-from src.input_data import get_validate_data, get_test_data, get_train_data
-from src.logger import Logger
+from input import train
+from input_data import get_validate_data, get_test_data, get_train_data
+from logger import Logger
 
 
 class CNN:

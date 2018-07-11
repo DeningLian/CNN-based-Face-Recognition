@@ -1,13 +1,8 @@
 # -*- coding: utf-8 -*-
 import os
-import sys
 import random
 import cv2
-import numpy
-import logging
 import numpy as np
-# from clean_DS_Store import *
-from src.clean_DS_Store import clean
 
 person_num = 0
 
@@ -116,7 +111,6 @@ def load(dir_path='../data/faces', img_width=64,
 	[np.array(testing_data), np.array(testing_label)]], person_num
 
 if __name__ == '__main__':
-	clean()
 	data, person_num = load('../../data/faces', 2)
 	[train, validate, test] = data
 	print(train[1])
