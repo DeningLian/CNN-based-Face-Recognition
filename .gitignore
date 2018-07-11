@@ -6,6 +6,7 @@ src/logs/
 models/
 logs/
 tmp/
+.idea/
 
 *.sublime-workspace
 *.sublime-project
